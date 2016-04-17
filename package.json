@@ -1,0 +1,17 @@
+{
+    "name": "test",
+    "version": "1.0.0",
+    "repository": "https://github.com/brianyu1983/test.git",
+    "bin": {
+        "main": "./main.js"
+    },
+    "scripts": {
+        
+    },
+    "dependencies": {
+        
+    },
+    "devDependencies": {
+        "commander": "^2.6.0"
+    }
+}
